@@ -1,6 +1,10 @@
 streamlit
 pandas
 tensorflow
+streamlit>=1.28.2
+pandas
+tensorflow
+--upgrade pip
 
 sklearn
 seaborn
